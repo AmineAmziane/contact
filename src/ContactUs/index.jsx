@@ -11,8 +11,8 @@ const ContactUs = () =>{
                 <form  action="mailto:gdscemail@gmail.com">
                     <input type="text" name="text" placeholder='full name'/>
                     <input type="email" name="email" placeholder='email'/>
-                    <textarea placeholder='message' placeholder="message">
-          
+                    <textarea placeholder='message'>
+                         message
                     </textarea>
                     <button className='btn'>
                         SEND

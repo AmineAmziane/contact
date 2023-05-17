@@ -10,7 +10,7 @@
         line-height:80px ;
         font-weight: 700;
         color:#FBBC04;
-        margin: 25px 0;
+        margin: 50px 0;
         @media screen and (max-width: 800px){
             font-size: 40px;
        }
@@ -48,6 +48,7 @@
                 height: 243px;
                 padding:20px 25px;
                 resize: none;
+                color:rgba(0,0,0,0.5)
             }
             button{
                 background: #FBBC04;
